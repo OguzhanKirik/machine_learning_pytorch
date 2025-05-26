@@ -35,6 +35,4 @@ Scikit-learn Documentation
 
 CIFAR-10 Dataset
 
-📬 Contact
-For questions or collaborations, feel free to reach out via GitHub Issues.
 
